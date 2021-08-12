@@ -9,15 +9,9 @@
       "description": "Lorem1 ",
       "sales_name": "John1",
       "img_collection": [
-        {
-          "img_1": "https://photos.zillowstatic.com/fp/8cfdd62e0c2e95b87b8a89d48e90eb43-cc_ft_960.jpg"
-        },
-        {
-          "img_2": "https://ap.rdcpix.com/ce4305635b3d44aef2e6abe0ce8f1f93l-m507177317od-w1024_h768_x2.webp"
-        },
-        {
-          "img_3": "https://ap.rdcpix.com/ce4305635b3d44aef2e6abe0ce8f1f93l-m1955241116od-w1024_h768.webp"
-        }
+         "img_1": "https://photos.zillowstatic.com/fp/8cfdd62e0c2e95b87b8a89d48e90eb43-cc_ft_960.jpg",
+         "img_2": "https://ap.rdcpix.com/ce4305635b3d44aef2e6abe0ce8f1f93l-m507177317od-w1024_h768_x2.webp",
+         "img_3": "https://ap.rdcpix.com/ce4305635b3d44aef2e6abe0ce8f1f93l-m1955241116od-w1024_h768.webp"
       ]
     },
 
