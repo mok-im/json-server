@@ -229,6 +229,29 @@
                 "img": "https://photos.zillowstatic.com/fp/58a0de74b25d427bf5b909fa3de5c054-uncropped_scaled_within_1536_1152.webp"
             }
         ]   
+      },
+      {
+        "id": 11,
+        "name_house": "House 4",
+        "price": "1000$",
+        "address": "New York City4",
+        "img": "https://photos.zillowstatic.com/fp/58a0de74b25d427bf5b909fa3de5c054-uncropped_scaled_within_1536_1152.webp",
+        "description": "Lorem1 ",
+        "sales_name": "John1",
+        "img_collection": [  
+            {
+                "id": 1,
+                "img": "https://photos.zillowstatic.com/fp/8cfdd62e0c2e95b87b8a89d48e90eb43-cc_ft_960.jpg"
+            },
+            {
+                "id": 2,
+                "img": "https://ap.rdcpix.com/ce4305635b3d44aef2e6abe0ce8f1f93l-m507177317od-w1024_h768_x2.webp"
+            },
+            {
+                "id": 3,
+                "img": "https://photos.zillowstatic.com/fp/58a0de74b25d427bf5b909fa3de5c054-uncropped_scaled_within_1536_1152.webp"
+            }
+        ]   
       }
     ]
   }
