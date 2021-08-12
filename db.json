@@ -1,4 +1,4 @@
-[{
+{
     "id":1,
     "name_house": "House 1",
     "price": "1000$",
@@ -53,4 +53,4 @@
     },
     "description": "Lorem4 ",
     "sales_name": "John4"
-   } ]
+   }
