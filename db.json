@@ -5,7 +5,7 @@
         "name_house": "House 1",
         "price": "1000$",
         "address": "New York City1",
-        "img": "https://photos.zillowstatic.com/fp/8cfdd62e0c2e95b87b8a89d48e90eb43-cc_ft_960.jpg",
+        "img": "https://ap.rdcpix.com/ce4305635b3d44aef2e6abe0ce8f1f93l-m507177317od-w1024_h768_x2.webp",
         "description": "Lorem1 ",
         "sales_name": "John1",
         "img_collection": [  
@@ -28,13 +28,13 @@
         "name_house": "House 2",
         "price": "1000$",
         "address": "New York City2",
-        "img": "https://photos.zillowstatic.com/fp/8cfdd62e0c2e95b87b8a89d48e90eb43-cc_ft_960.jpg",
+        "img": "https://ap.rdcpix.com/ce4305635b3d44aef2e6abe0ce8f1f93l-m1955241116od-w1024_h768.webp",
         "description": "Lorem1 ",
         "sales_name": "John1",
         "img_collection": [  
             {
                 "id": 1,
-                "img": "https://photos.zillowstatic.com/fp/8cfdd62e0c2e95b87b8a89d48e90eb43-cc_ft_960.jpg"
+                "img": "https://ap.rdcpix.com/ce4305635b3d44aef2e6abe0ce8f1f93l-m1955241116od-w1024_h768.webp"
             },
             {
                 "id": 2,
@@ -42,7 +42,7 @@
             },
             {
                 "id": 3,
-                "img": "https://ap.rdcpix.com/ce4305635b3d44aef2e6abe0ce8f1f93l-m1955241116od-w1024_h768.webp"
+                "img": "https://photos.zillowstatic.com/fp/8cfdd62e0c2e95b87b8a89d48e90eb43-cc_ft_960.jpg"
             }
         ]   
       },
@@ -51,7 +51,7 @@
         "name_house": "House 3",
         "price": "1000$",
         "address": "New York City3",
-        "img": "https://photos.zillowstatic.com/fp/8cfdd62e0c2e95b87b8a89d48e90eb43-cc_ft_960.jpg",
+        "img": "https://photos.zillowstatic.com/fp/dbbce6f26a19f4b3a403a4d838d529e5-uncropped_scaled_within_1536_1152.webp",
         "description": "Lorem1 ",
         "sales_name": "John1",
         "img_collection": [  
@@ -61,7 +61,7 @@
             },
             {
                 "id": 2,
-                "img": "https://ap.rdcpix.com/ce4305635b3d44aef2e6abe0ce8f1f93l-m507177317od-w1024_h768_x2.webp"
+                "img": "https://photos.zillowstatic.com/fp/a41713b6783d83594364786b4b65a371-uncropped_scaled_within_1536_1152.webp"
             },
             {
                 "id": 3,
@@ -74,7 +74,7 @@
         "name_house": "House 4",
         "price": "1000$",
         "address": "New York City4",
-        "img": "https://photos.zillowstatic.com/fp/8cfdd62e0c2e95b87b8a89d48e90eb43-cc_ft_960.jpg",
+        "img": "https://photos.zillowstatic.com/fp/58a0de74b25d427bf5b909fa3de5c054-uncropped_scaled_within_1536_1152.webp",
         "description": "Lorem1 ",
         "sales_name": "John1",
         "img_collection": [  
@@ -88,7 +88,7 @@
             },
             {
                 "id": 3,
-                "img": "https://ap.rdcpix.com/ce4305635b3d44aef2e6abe0ce8f1f93l-m1955241116od-w1024_h768.webp"
+                "img": "https://photos.zillowstatic.com/fp/58a0de74b25d427bf5b909fa3de5c054-uncropped_scaled_within_1536_1152.webp"
             }
         ]   
       }
